@@ -1,0 +1,28 @@
+{
+  "name": "network-monitorization",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJackson22-bit/network-monitorization.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJackson22-bit/network-monitorization/issues"
+  },
+  "homepage": "https://github.com/MJackson22-bit/network-monitorization#readme",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.18.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
